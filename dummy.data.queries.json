@@ -1,0 +1,12 @@
+
+[
+    {
+        "Id": 1,
+        "FirstName": "Berte",
+        "LastName": "Oxe",
+        "Email": "boxe0@hostgator.com",
+        "Gender": "F",
+        "Job": "VP Sales",
+        "Age": 33
+    }
+]
